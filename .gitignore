@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!*.pd
+!*.touchosc
+!*.pde
+!*.md
